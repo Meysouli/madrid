@@ -1,0 +1,25 @@
+body {
+    font-size: 36px;
+    text-align: center;
+    border: 10px solid green;
+}
+
+/* order matters */
+/* LVHA */
+/* Link Visited Hover Active */
+/* juste link louno green*/
+a:link {
+    color: green;
+}
+/*wa9t temchilou site*/
+a:visited {
+    color: blue;
+}
+/*ki t3adi cursor fou9ha*/
+a:hover {
+    color: red;
+}
+/*kif tekliki 3lih*/
+a:active {
+    color: yellow;
+}
